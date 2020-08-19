@@ -1,4 +1,4 @@
-## Vimplus 👋
+## Hi, 乐潇游 👋
 
 * Blog: [www.thinktxt.com](https://www.thinktxt.com)
 
